@@ -1,16 +1,16 @@
 # Projeto-Dungeon-Crawler
-• Nome do jogo.
+# Nome do jogo.
 
 
-• Nome dos desenvolvedores.
-  Adan Arthur Mathias de Castro Correa de Melo
-  Davi Fernando Costa Nunes
-  Fernando Ariel Dias Nobre
+# Nome dos desenvolvedores.
+ - Adan Arthur Mathias de Castro Correa de Melo
+ - Davi Fernando Costa Nunes
+ - Fernando Ariel Dias Nobre
   
-• História do jogo.
+# História do jogo.
 
 
-• Como jogar (controles e objetivo).
+# Como jogar (controles e objetivo).
  - w | Move o jogador para cima e altera o símbolo para ^
  - a | Move o jogador para a esquerda e altera o símbolo para <
  - s | Move o jogador para baixo e altera o símbolo para v
@@ -18,7 +18,7 @@
  - i | Interage com o objeto que está à frente do jogador
  - o | O jogador realiza um ataque na célula à sua frente
 
-• Significado de cada símbolo utilizado no jogo.
+# Significado de cada símbolo utilizado no jogo.
  - '<' | Jogador olhando para a esquerda
  - '^' | Jogador olhando para cima
  - '>' | Jogador olhando para a direita
