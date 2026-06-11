@@ -1,7 +1,6 @@
 # ⚔️ Dungeon Crawler
 
 ## 👥 Desenvolvedores
-* **Adan Arthur Mathias De Castro Correa De Melo**
 * **Davi Fernando Costa Nunes**
 * **Fernando Ariel Dias Nobre**
 
